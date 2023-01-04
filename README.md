@@ -38,7 +38,7 @@ Run the application:
 
 The application will be available at 
     
-    http://localhost:8080/excel/import.
+    http://localhost:8080/excel/import
 
 ## Set up the database
 Run the MySQL server on your machine.
@@ -46,6 +46,7 @@ Run the MySQL server on your machine.
 Create a new database for the application: CREATE DATABASE employeedb;
 
 Run the database creation script from the repository: 
+
     mysql -u <username> -p employeedb < database.sql
 
 The script will create the necessary tables and insert some sample data into the database.

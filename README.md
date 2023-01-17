@@ -23,11 +23,11 @@ MySQL Connector/J
 Set up the application
 Clone the repository from GitHub: 
     
-    git clone https://github.com/elbatechnology
+    git clone https://github.com/ReadExcelFileandWriteIntoDB
 
 Navigate to the root directory of the project: 
 
-    cd elbatechnology
+    cd ReadExcelFileandWriteIntoDB
 Install the dependencies: 
 
     mvn install

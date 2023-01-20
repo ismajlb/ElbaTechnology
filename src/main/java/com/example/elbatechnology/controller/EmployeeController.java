@@ -17,7 +17,6 @@ import java.util.List;
 @CrossOrigin(origins="*")
 @RequiredArgsConstructor
 public class EmployeeController {
-
     private final EmployeeService employeeService;
 
     @GetMapping("")

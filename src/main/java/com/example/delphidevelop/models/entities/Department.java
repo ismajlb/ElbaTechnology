@@ -1,4 +1,4 @@
-package com.example.elbatechnology.models.entities;
+package com.example.delphidevelop.models.entities;
 
 
 import lombok.*;

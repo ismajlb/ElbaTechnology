@@ -1,4 +1,4 @@
-package com.example.elbatechnology.models.responses;
+package com.example.delphidevelop.models.responses;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -9,8 +9,7 @@ import lombok.Setter;
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-public class EmployeeResponse {
-
+public class UserResponse {
     private Long id;
 
     private String name;
@@ -22,4 +21,6 @@ public class EmployeeResponse {
     private String phone;
 
     private String address;
+
+    private Boolean isActive;
 }

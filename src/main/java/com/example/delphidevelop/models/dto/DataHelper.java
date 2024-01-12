@@ -1,6 +1,6 @@
-package com.example.elbatechnology.models.dto;
+package com.example.delphidevelop.models.dto;
 
-import com.example.elbatechnology.models.entities.Employee;
+import com.example.delphidevelop.models.entities.Employee;
 import lombok.Getter;
 import lombok.Setter;
 

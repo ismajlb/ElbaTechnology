@@ -1,6 +1,6 @@
-package com.example.elbatechnology.repository;
+package com.example.delphidevelop.repository;
 
-import com.example.elbatechnology.models.entities.Manager;
+import com.example.delphidevelop.models.entities.Manager;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface ManagerRepository extends JpaRepository<Manager, Long> {

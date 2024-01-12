@@ -1,19 +1,19 @@
-package com.example.elbatechnology;
+package com.example.delphidevelop;
 
-import com.example.elbatechnology.service.ExcelService;
+import com.example.delphidevelop.service.ExcelService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ElbaTechnologyApplication implements CommandLineRunner {
+public class DelphiDevelop implements CommandLineRunner {
 
     @Autowired
     private ExcelService excelService;
 
     public static void main(String[] args) {
-        SpringApplication.run(ElbaTechnologyApplication.class, args);
+        SpringApplication.run(DelphiDevelop.class, args);
     }
 
     @Override

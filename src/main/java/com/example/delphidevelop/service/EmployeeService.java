@@ -1,8 +1,8 @@
-package com.example.elbatechnology.service;
+package com.example.delphidevelop.service;
 
-import com.example.elbatechnology.models.responses.EmployeeResponse;
-import com.example.elbatechnology.models.responses.UserResponse;
-import com.example.elbatechnology.repository.EmployeeRepository;
+import com.example.delphidevelop.models.responses.EmployeeResponse;
+import com.example.delphidevelop.models.responses.UserResponse;
+import com.example.delphidevelop.repository.EmployeeRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

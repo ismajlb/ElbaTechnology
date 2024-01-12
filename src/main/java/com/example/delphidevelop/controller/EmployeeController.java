@@ -1,11 +1,9 @@
-package com.example.elbatechnology.controller;
+package com.example.delphidevelop.controller;
 
 
-import com.example.elbatechnology.models.entities.Employee;
-import com.example.elbatechnology.models.responses.EmployeeResponse;
-import com.example.elbatechnology.models.responses.UserResponse;
-import com.example.elbatechnology.repository.EmployeeRepository;
-import com.example.elbatechnology.service.EmployeeService;
+import com.example.delphidevelop.models.responses.EmployeeResponse;
+import com.example.delphidevelop.models.responses.UserResponse;
+import com.example.delphidevelop.service.EmployeeService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

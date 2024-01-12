@@ -1,4 +1,4 @@
-package com.example.elbatechnology.models.responses;
+package com.example.delphidevelop.models.responses;
 
 
 import lombok.*;

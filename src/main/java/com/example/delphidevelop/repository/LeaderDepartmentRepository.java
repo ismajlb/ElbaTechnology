@@ -1,6 +1,6 @@
-package com.example.elbatechnology.repository;
+package com.example.delphidevelop.repository;
 
-import com.example.elbatechnology.models.entities.LeaderDepartment;
+import com.example.delphidevelop.models.entities.LeaderDepartment;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface LeaderDepartmentRepository extends JpaRepository<LeaderDepartment, Long> {

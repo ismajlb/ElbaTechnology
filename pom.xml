@@ -9,10 +9,10 @@
         <relativePath/>
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>ElbaTechnology</artifactId>
+    <artifactId>DelphiDevelop</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ElbaTechnology</name>
-    <description>ElbaTechnology</description>
+    <name>DelphiDevelop</name>
+    <description>This application read the Excel Sheet and write into Database using POI</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
